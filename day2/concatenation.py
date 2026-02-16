@@ -29,9 +29,8 @@ info = f"My name is {name} and I am {age} years old."
 print(info)
 
 
-
-#name = saab
+# name = saab
 age = 25
 salary = 50000
 
-print(age+salary)
+print(age, salary)
